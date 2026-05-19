@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Gasparinho 👋
 
-I'm a final-year Master's student in Computer Science at NOVA SST. My interests include Deductive Verification, Programming Language Design and Algorithms <br>
+I'm a software engineer, and my interests include Deductive Verification, Programming Language Design and Algorithms <br>
 
 A nice quote:
 > **"A journey of a thousand miles begins with a single step."**  
